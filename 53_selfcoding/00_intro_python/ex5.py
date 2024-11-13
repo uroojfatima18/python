@@ -5,7 +5,7 @@
 
 #solution :
 def main():
-    print("This program for Triangle length and calculation! )")
+    print("This program for Triangle length and calculation! ")
     # get three side length of tringle by user 
     side_1=float(input('what is the length of side 1 ? '))
     side_2=float(input('what is the length of side 2 ? '))
