@@ -12,7 +12,7 @@ def roll_dice():
   return die1,die2
 
 
-
+roll_dice()
 
     
       
