@@ -9,7 +9,7 @@
 
 #solution:
 
-# import math   # import library 
+# import math   
 def main():
     ab=float(input("Enter a length AB: ")) 
     ac=float(input("Enter a length AC: "))
