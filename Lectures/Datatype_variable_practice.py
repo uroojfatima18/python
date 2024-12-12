@@ -51,9 +51,3 @@ divide=(Number_1/Number_2)
 print("Division:",divide)
 
 
-
-
-
-
-
-

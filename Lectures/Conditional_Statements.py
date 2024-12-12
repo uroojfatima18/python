@@ -28,7 +28,3 @@ else:
     (age<=15)
     print("he is not able to vote")
 
-
-
-
-

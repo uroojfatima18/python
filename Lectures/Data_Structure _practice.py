@@ -49,5 +49,5 @@ print(fav_color3)
 fav_color=fav_color3*2       # repeat
 print(fav_color)
 
-fav_color=("black","white","green"),("mustard","blue")       # nested tuple
+fav_color=("black","white","green",),("mustard","blue" )    # nested tuple
 print(fav_color)
